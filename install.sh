@@ -65,10 +65,3 @@ node -v
 npm -v
 
 echo "Node.js v$NODE_MAJOR がインストールされました。"
-
-
-# インストールが完了したか確認
-node -v
-npm -v
-
-echo "Node.js v$NODE_MAJOR がインストールされました。"
